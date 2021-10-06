@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Crawlo/crawlo-mongodb.git"
+    "url": "git+https://github.com/Crawlo/mongodb.git"
   },
   "peerDependencies": {
     "mongodb": "3.x"
@@ -17,9 +17,9 @@
   "author": "Crawlo <hello@crawlo.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Crawlo/crawlo-mongodb/issues"
+    "url": "https://github.com/Crawlo/mongodb/issues"
   },
-  "homepage": "https://github.com/Crawlo/crawlo-mongodb#readme",
+  "homepage": "https://github.com/Crawlo/mongodb#readme",
   "dependencies": {
     "dataloader": "^1.4.0",
     "mongodb": "^3.2.7"
