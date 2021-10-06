@@ -1,0 +1,35 @@
+{
+  "name": "@crawlo/mongodb",
+  "version": "1.0.22",
+  "description": "MongoDB Driver based on Interface",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crawlo/crawlo-mongodb.git"
+  },
+  "peerDependencies": {
+    "mongodb": "3.x"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "Crawlo <hello@crawlo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crawlo/crawlo-mongodb/issues"
+  },
+  "homepage": "https://github.com/Crawlo/crawlo-mongodb#readme",
+  "dependencies": {
+    "dataloader": "^1.4.0",
+    "mongodb": "^3.2.7"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "@shelf/jest-mongodb": "^1.1.0",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0"
+  }
+}
