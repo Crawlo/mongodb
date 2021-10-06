@@ -1,6 +1,6 @@
 {
   "name": "@crawlo/mongodb",
-  "version": "1.0.22",
+  "version": "1.0.0",
   "description": "MongoDB Driver based on Interface",
   "main": "index.js",
   "scripts": {},
